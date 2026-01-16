@@ -49,10 +49,10 @@ https://github.com/user-attachments/assets/94f8dfc8-fc22-4ff7-97fe-fb5fdee832d7
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/job_search_ai.git](https://github.com/your-username/job_search_ai.git)
+git clone https://github.com/ananyajs/Apply-Wise-AI.git
 
 # Navigate to project folder
-cd job_search_ai
+cd Apply-Wise-AI
 
 # Create and activate virtual environment
 python -m venv venv
@@ -86,4 +86,5 @@ B.Tech in Artificial Intelligence & Data Science
 🔗 **LinkedIn:** https://www.linkedin.com/in/ananyajs  
 
 ⭐ If you like this project, please give it a star!
+
 

@@ -26,7 +26,11 @@ An intelligent multi-agent system that analyzes job descriptions, generates tail
 
 ## 🖥️ Demo Video
 
-▶️ **Watch the full walkthrough here:** 👉 [Replace with your YouTube/Drive Link]
+▶️ **Watch the full walkthrough:** 
+
+https://github.com/user-attachments/assets/94f8dfc8-fc22-4ff7-97fe-fb5fdee832d7
+
+
 
 ---
 
@@ -68,8 +72,8 @@ streamlit run app.py
 ## 📌 Use Cases
 
 - Job Applications: Tailor applications quickly without manual editing.
--Resume Optimization: Ensure your resume passes through Applicant Tracking Systems (ATS).
--Recruiter Outreach: Automate the creation of personalized LinkedIn messages.
+- Resume Optimization: Ensure your resume passes through Applicant Tracking Systems (ATS).
+- Recruiter Outreach: Automate the creation of personalized LinkedIn messages.
 
 ---
 
@@ -82,3 +86,4 @@ B.Tech in Artificial Intelligence & Data Science
 🔗 **LinkedIn:** https://www.linkedin.com/in/ananyajs  
 
 ⭐ If you like this project, please give it a star!
+
